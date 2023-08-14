@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">I’m a self taught Front-end Web Developer.</h3>
 <img align="right" width="400" alt="coding image" src="https://cdn.becomeopedia.com/wp-content/uploads/software-developer-6521720_960_720.jpg"/>
-- 🌱 I’m currently learning **Android Application Development**
+- 🌱 I’m currently learning <b>Android Application Development</b>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pradeep-Kumar-Thakur](https://github.com/Pradeep-Kumar-Thakur)
 
